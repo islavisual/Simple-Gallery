@@ -2,7 +2,7 @@
   * @version: 1.00
   * @author: Pablo E. Fernández (islavisual@gmail.com).
   * Copyright 2016 Islavisual. 
-  * Licensed under MIT (https://github.com/islavisual/getBrowser/blob/master/LICENSE). 
+  * Licensed under MIT (https://github.com/islavisual/Simple-Gallery/blob/master/LICENSE). 
   * Last update: 13/09/2016
   **/
 var items = jQuery('.simple-gallery div[data-src]');
